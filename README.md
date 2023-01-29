@@ -12,7 +12,7 @@ npm install npm@latest -g
 
 <b>Installation</b>
 
-Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
+<i>Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.</i>
 
 Install json-serve
 ```
