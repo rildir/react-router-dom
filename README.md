@@ -11,7 +11,4 @@ Installation
 Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
 
 Install json-serve
-```
-npx json-server --watch data/db.json
-
-
+```npx json-server --watch data/db.json
