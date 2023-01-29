@@ -10,7 +10,7 @@ npm
 npm install npm@latest -g
 ```
 
-Installation
+<b>Installation</b>
 
 Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
 
