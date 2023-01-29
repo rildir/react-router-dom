@@ -1,0 +1,29 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  align-items: center;
+
+  a {
+    color: black;
+  }
+
+  .logo-container {
+    border: 1px solid black;
+    padding: 0.5rem 0.85rem;
+    border-radius: 4px;
+    transition: 0.2s ease-in-out all;
+
+    &:hover {
+      scale: 1.1;
+      color: whitesmoke;
+      background-color: crimson;
+      border-color: whitesmoke;
+    }
+  }
+  .nav-links-container {
+    a {
+      margin: 0 0.8rem;
+    }
+  }
+}
